@@ -7,7 +7,7 @@
 	<artifactId>list-events-portlet</artifactId>
 	<packaging>war</packaging>
 	<name>${project.artifactId}-${project.version}</name>
-	<version>1.0.0</version>
+	<version>1.0.0.0</version>
 
 	<properties>
 		<maven.compiler.source>1.7</maven.compiler.source>
